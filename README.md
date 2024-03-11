@@ -11,17 +11,17 @@
 
 I am a passionate frontend developer and owner of Webdecode. I love coding, building websites, and sharing knowledge with the community.
 
-<img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m continuously improving my coding skills;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently exploring new web development trends;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask me anything related to web development;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Check out my latest articles on [Webdecode Blog](https://www.webdescode.com/);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: info@webdescode.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://www.sobujmiah.com).
+- <img src="assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m continuously improving my coding skills;
+- <img src="assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently exploring new web development trends;
+- <img src="assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask me anything related to web development;
+- <img src="assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Check out my latest articles on [Webdecode Blog](https://www.webdescode.com/);
+- <img src="assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: info@webdescode.com;
+- <img src="assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://www.sobujmiah.com).
 
 </br>
 
